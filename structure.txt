@@ -124,7 +124,7 @@
 ├── package-lock.json
 ├── postcss.config.mjs
 ├── public
-│   ├── hero.jpeg
+│   ├── hero.jpeg.        
 │   ├── logos
 │   │   ├── gssoc logo.png
 │   │   ├── logo1.png
